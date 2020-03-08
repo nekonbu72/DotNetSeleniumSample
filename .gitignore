@@ -23,6 +23,6 @@
 # Ignore all local history of files
 .history
 
-*.exe
-
 # End of https://www.gitignore.io/api/dotnetcore,visualstudiocode
+
+*.exe
